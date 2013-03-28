@@ -34,7 +34,6 @@ public class UserServiceHandler implements UserService.Iface
      */
     public static void main(final String[] args)
     {
-        // TODO Auto-generated method stub
 
     }
 
